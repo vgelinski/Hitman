@@ -1,1 +1,1 @@
-# Hitman
+Run AI.html in browser, that support HTML5 :)
